@@ -8,7 +8,7 @@ public class Test
 		
 		if(isValid("name"))
 		{
-			
+			System.out.println ();
 		}
 	}
 
